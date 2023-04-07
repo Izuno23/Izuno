@@ -34,8 +34,8 @@
                                     More
                                 </a>
                                 <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="#">Login</a></li>
-                                    <li><a class="dropdown-item" href="#">Register</a></li>
+                                    <li><a class="dropdown-item" href="login.jsp">Login</a></li>
+                                    <li><a class="dropdown-item" href="register.jsp">Register</a></li>
                                     <li>
                                         <hr class="dropdown-divider">
                                     </li>
